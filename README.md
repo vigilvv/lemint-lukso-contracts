@@ -19,3 +19,11 @@
   - Command: `npm run retrieve-token-type`
 - Check the metadata of the NFT: `helpers/getNFTMetadata.ts`
   - Command `npm run get-nft-metadata`
+
+
+
+### Other info
+
+- Backend repo: [https://github.com/vigilvv/lemint-backend](https://github.com/vigilvv/lemint-backend)
+  - Please check backend repo for sequence diagram and more details
+- Frontend repo: https://github.com/vigilvv/lemint-frontend-new
